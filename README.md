@@ -1,3 +1,3 @@
 # AdventOfCode2022
 
-My solutions for Advent Of Code 2020 challenge.
+My solutions for Advent Of Code 2022 challenge.
